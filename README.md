@@ -26,3 +26,12 @@ Orders Data Set: contains order id, user id, evaluation set, order number, order
 6. Columns Derived
 7. Visualizations
 8. Recommendations
+
+## Tools:
+For this project the following python libraries were used:
+Pandas and Numpy for data analysis
+Os for interacting with operating system
+Seaborn, Matplotlib.pyplot and scipy for visualizations
+
+## Executing the code:
+The code is available as jupyter notbook available under/scripts/
